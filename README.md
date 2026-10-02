@@ -68,4 +68,3 @@ npm run dev
 
 ## 📊 Project Status
 
-**Status:** Completed / Under Development
